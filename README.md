@@ -1,7 +1,3 @@
-<img width="1000" alt="header_1" src="https://github.com/user-attachments/assets/b197fd60-3643-4bfd-a9fd-e7cb798814c8">
-<h1>Hi 👋, I'm Aditya</h1>
-<p>A developer from India</p>
-<img width="1000" alt="header_1" src="https://github.com/user-attachments/assets/b197fd60-3643-4bfd-a9fd-e7cb798814c8" />
 <h1>Hi 👋, I'm Aditya</h1>
 <p>A developer from India</p>
 
